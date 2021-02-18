@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![bizhen's github stats](https://github-readme-stats.vercel.app/api?username=bizhen-yang&show_icons=true&theme=radical) 
+![bizhen's github stats](https://github-readme-stats.vercel.app/api?username=bizhen-yang&show_icons=true&theme=flag-india) 
 
 
-![bizhen's github stats](https://github-readme-stats.vercel.app/api?username=bizhen-yang&theme=radical) 
